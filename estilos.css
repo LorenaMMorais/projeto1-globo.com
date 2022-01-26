@@ -1,0 +1,261 @@
+body {
+  margin: 0 auto;
+  font-family: "Encode Sans", sans-serif;
+}
+.barraTopo {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  margin-left: 715px;
+}
+.imgBarraTopo {
+  height: 44px;
+}
+.barraOp {
+  width: 1598px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #f5f6f7;
+  border-top: 1px solid #f5f6f7;
+}
+.itensBarraOp {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  margin-left: 154px;
+  margin-right: 195px;
+}
+.cor_g1 {
+  color: #c3170c;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_oGlobo {
+  color: #1e4b9b;
+  font-weight: bolder;
+  text-decoration: solid;
+  flex-wrap: nowrap;
+}
+.cor_valor {
+  color: #006766;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_ge {
+  color: #07aa47;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_cartola {
+  color: #e3662b;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_globoplay {
+  color: #fb0735;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_dropz {
+  color: #ff75bb;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_gshow {
+  color: #ec7d00;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_quem {
+  color: #323333;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.cor_receitas {
+  color: #a81d83;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.conteudoDaPagina {
+  height: 1250px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 154px;
+}
+.pagina {
+  width: 1250px;
+}
+
+.materiasEsquerda {
+  width: 625px;
+  margin-top: 50px;
+  padding-right: 40px;
+}
+
+.materiasEsquerdaMateriaPrinc_h1 {
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+  text-decoration: solid;
+  margin-top: 50px;
+}
+
+.materiasEsquerdaMateriaSec {
+  margin-top: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ebedef;
+}
+
+.materiasEsquerdaMateriaSec_h2 {
+  padding: 5px;
+  font-size: 18px;
+  color: #303134;
+}
+
+.materiasEsquerdaCaixaImgs {
+  display: flex;
+  width: 625px;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.materiasEsquerdaImgs {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+}
+
+.materiasEsquerdaCaixaTxts {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+  padding-top: 5px;
+  border-bottom: 1px solid #ebedef;
+}
+
+.materiasEsquerdaCaixa2Txt {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.materiasEsquerdaTxt_alem-do-presidente {
+  width: 193px;
+}
+
+.materiasEsquerdaTxt_crimes-na-fronteira {
+  width: 193px;
+}
+
+.materiasEsquerdaTxt_reino-unido {
+  width: 193px;
+}
+
+.materiasEsquerdaTxt1 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #c4170c;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.materiasEsquerdaTxt2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2f3134;
+  text-decoration: none;
+}
+
+.materiasEsquerdaTxt3 {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.materiasEsquerdaCaixa2TxtPrimeira {
+  width: 193px;
+}
+
+.materiasEsquerdaCaixa2TxtSegunda {
+  width: 193px;
+}
+
+.materiasEsquerdaCaixa2TxtTerceira {
+  width: 193px;
+}
+
+.materiasDireita {
+  width: 625px;
+  margin-top: 50px;
+  padding-left: 45px;
+  border-left: 1px solid #ebedef;
+  display: flex;
+}
+.materiasDireitaImgs {
+  border-radius: 12px;
+  width: 240px;
+  height: 128px;
+}
+.materiasDireitaImgsTxt1Verde {
+  font-size: 14px;
+  font-weight: bold;
+  color: #16ae54;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.materiasDireitaImgsTxt2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2f3134;
+  text-decoration: none;
+}
+
+.materiasDireitaImgsTxt3 {
+  margin-top: 16px;
+  font-size: 14px;
+}
+
+.materiasDireitaColunaVerde {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  padding-right: 30px;
+  border-right: 1px solid #ebedef;
+}
+
+.materiasDireitaColunaVerdeEspiao-estatistico {
+  margin-bottom: 50px;
+}
+
+.materiasDireitaColunaVerdeGreve-na-raposa {
+  margin-bottom: 50px;
+}
+
+.materiasDireitaColunaVerdeCampeonato-frances img {
+  margin-top: 30px;
+}
+
+.materiasDireitaColunaLaranja {
+  margin-left: 35px;
+}
+
+.materiasDireitaImgsTxt1Laranja {
+  font-size: 14px;
+  color: #ec8006;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.materiasDireitaColunaLaranjaFerias-e-jh {
+  margin-bottom: 50px;
+}
+
+.materiasDireitaColunaLaranjaVerdades-secretas-2 {
+  margin-bottom: 50px;
+}
+.materiasDireitaColunaLaranjaNos-tempos-do-imperador {
+  margin-bottom: 50px;
+}
